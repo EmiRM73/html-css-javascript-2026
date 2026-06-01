@@ -7,9 +7,9 @@
 
 | Campo | Dato |
 |-------|------|
-| **Nombre y Apellido** | Rivero Emilio Benjamin | 
-| **Legajo** | 34040 |
-| **Correo electrónico** | emiliorivero161@gmail.com |
+| **Nombre y Apellido** | | 
+| **Legajo** | |
+| **Correo electrónico** |  |
 
 ---
 
